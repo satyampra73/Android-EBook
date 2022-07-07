@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidEBook_V13.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidEBook_V13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SmoothCheckBox-master/AndroidEBook_V13.SmoothCheckBox-master.iml" filepath="$PROJECT_DIR$/.idea/modules/SmoothCheckBox-master/AndroidEBook_V13.SmoothCheckBox-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidEBook_V13.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidEBook_V13.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/expandabletextview/AndroidEBook_V13.expandabletextview.iml" filepath="$PROJECT_DIR$/.idea/modules/expandabletextview/AndroidEBook_V13.expandabletextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/folioreader/AndroidEBook_V13.folioreader.iml" filepath="$PROJECT_DIR$/.idea/modules/folioreader/AndroidEBook_V13.folioreader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetemplates/AndroidEBook_V13.nativetemplates.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetemplates/AndroidEBook_V13.nativetemplates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rating-view/AndroidEBook_V13.rating-view.iml" filepath="$PROJECT_DIR$/.idea/modules/rating-view/AndroidEBook_V13.rating-view.iml" />
+    </modules>
+  </component>
+</project>

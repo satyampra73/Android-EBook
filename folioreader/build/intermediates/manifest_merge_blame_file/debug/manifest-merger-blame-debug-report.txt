@@ -1,0 +1,74 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.folioreader" >
+5
+6    <uses-sdk
+6-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:7:5-88
+7        android:minSdkVersion="21"
+7-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:7:5-88
+8        android:targetSdkVersion="30"
+8-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:7:5-88
+9        tools:overrideLibrary="org.readium.r2.streamer, org.readium.r2.shared" />
+9-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:7:15-85
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:6:5-67
+11-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:6:22-64
+12
+13    <application
+13-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:9:5-40:19
+14        android:allowBackup="true"
+14-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:10:9-35
+15        android:largeHeap="true"
+15-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:11:9-33
+16        android:networkSecurityConfig="@xml/network_security_config"
+16-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:12:9-69
+17        tools:replace="android:allowBackup" >
+17-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:13:9-44
+18        <provider
+18-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:15:9-18:40
+19            android:name="com.folioreader.AppContext"
+19-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:16:13-39
+20            android:authorities="${applicationId}.provider.appcontext"
+20-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:17:13-71
+21            android:exported="false" />
+21-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:18:13-37
+22
+23        <activity
+23-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:20:9-23:60
+24            android:name="com.folioreader.ui.activity.FolioActivity"
+24-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:21:13-69
+25            android:label="@string/app_names"
+25-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:22:13-46
+26            android:theme="@style/FolioActivityDayTheme" />
+26-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:23:13-57
+27        <activity
+27-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:25:9-27:59
+28            android:name="com.folioreader.ui.activity.ContentHighlightActivity"
+28-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:26:13-80
+29            android:theme="@style/AppTheme.NoActionBar" />
+29-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:27:13-56
+30        <activity
+30-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:29:9-38:20
+31            android:name="com.folioreader.ui.activity.SearchActivity"
+31-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:30:13-70
+32            android:launchMode="singleTop" >
+32-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:31:13-43
+33            <intent-filter>
+33-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:32:13-34:29
+34                <action android:name="android.intent.action.SEARCH" />
+34-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:33:17-71
+34-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:33:25-68
+35            </intent-filter>
+36
+37            <meta-data
+37-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:35:13-37:54
+38                android:name="android.app.searchable"
+38-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:36:17-54
+39                android:resource="@xml/searchable" />
+39-->C:\Satyam\Working Projects\AndroidEBook_V13\folioreader\AndroidManifest.xml:37:17-51
+40        </activity>
+41    </application>
+42
+43</manifest>

@@ -1,0 +1,205 @@
+com/folioreader/model/dictionary/Example.java
+ com.folioreader.model.dictionary.Example
+com/folioreader/util/UiUtil.java
+ com.folioreader.util.UiUtil
+com/folioreader/model/sqlite/FolioDatabaseHelper.java
+ com.folioreader.model.sqlite.FolioDatabaseHelper
+com/folioreader/model/sqlite/HighLightTable.java
+ com.folioreader.model.sqlite.HighLightTable
+com/folioreader/ui/adapter/FolioPageFragmentAdapter.java
+ com.folioreader.ui.adapter.FolioPageFragmentAdapter
+com/folioreader/model/event/UpdateHighlightEvent.java
+ com.folioreader.model.event.UpdateHighlightEvent
+com/folioreader/model/event/MediaOverlaySpeedEvent.java
+ com.folioreader.model.event.MediaOverlaySpeedEvent
+ com.folioreader.model.event.MediaOverlaySpeedEvent$Speed
+com/folioreader/model/dictionary/Dictionary.java
+ com.folioreader.model.dictionary.Dictionary
+com/folioreader/ui/base/WikipediaTask.java
+ com.folioreader.ui.base.WikipediaTask
+com/folioreader/ui/adapter/DictionaryAdapter.java
+ com.folioreader.ui.adapter.DictionaryAdapter
+ com.folioreader.ui.adapter.DictionaryAdapter$DictionaryHolder
+com/folioreader/Font.java
+ com.folioreader.Font
+com/folioreader/util/ScreenUtils.java
+ com.folioreader.util.ScreenUtils
+com/folioreader/model/event/RewindIndexEvent.java
+ com.folioreader.model.event.RewindIndexEvent
+com/folioreader/ui/view/StyleableTextView.java
+ com.folioreader.ui.view.StyleableTextView
+com/folioreader/model/event/MediaOverlayPlayPauseEvent.java
+ com.folioreader.model.event.MediaOverlayPlayPauseEvent
+com/folioreader/util/ReadLocatorListener.java
+ com.folioreader.util.ReadLocatorListener
+com/folioreader/model/dictionary/Pronunciations.java
+ com.folioreader.model.dictionary.Pronunciations
+com/folioreader/Config.java
+ com.folioreader.Config
+ com.folioreader.Config$1
+ com.folioreader.Config$AllowedDirection
+ com.folioreader.Config$Direction
+com/folioreader/ui/base/HtmlTask.java
+ com.folioreader.ui.base.HtmlTask
+com/folioreader/ui/view/LoadingView.java
+ com.folioreader.ui.view.LoadingView
+ com.folioreader.ui.view.LoadingView$1
+ com.folioreader.ui.view.LoadingView$2
+ com.folioreader.ui.view.LoadingView$3
+ com.folioreader.ui.view.LoadingView$4
+ com.folioreader.ui.view.LoadingView$5
+com/folioreader/model/dictionary/Wikipedia.java
+ com.folioreader.model.dictionary.Wikipedia
+com/folioreader/model/event/AnchorIdEvent.java
+ com.folioreader.model.event.AnchorIdEvent
+com/folioreader/util/HighlightUtil.java
+ com.folioreader.util.HighlightUtil
+com/folioreader/model/event/MediaOverlayHighlightStyleEvent.java
+ com.folioreader.model.event.MediaOverlayHighlightStyleEvent
+ com.folioreader.model.event.MediaOverlayHighlightStyleEvent$Style
+com/folioreader/util/ProgressDialog.java
+ com.folioreader.util.ProgressDialog
+com/folioreader/mediaoverlay/MediaControllerCallbacks.java
+ com.folioreader.mediaoverlay.MediaControllerCallbacks
+com/folioreader/mediaoverlay/MediaController.java
+ com.folioreader.mediaoverlay.MediaController
+ com.folioreader.mediaoverlay.MediaController$1
+ com.folioreader.mediaoverlay.MediaController$2
+ com.folioreader.mediaoverlay.MediaController$2$1
+ com.folioreader.mediaoverlay.MediaController$2$1$1
+ com.folioreader.mediaoverlay.MediaController$3
+ com.folioreader.mediaoverlay.MediaController$MediaType
+com/folioreader/FolioReader.java
+ com.folioreader.FolioReader
+ com.folioreader.FolioReader$1
+ com.folioreader.FolioReader$2
+ com.folioreader.FolioReader$3
+ com.folioreader.FolioReader$OnClosedListener
+com/folioreader/ui/fragment/TableOfContentFragment.java
+ com.folioreader.ui.fragment.TableOfContentFragment
+com/folioreader/util/SharedPreferenceUtil.java
+ com.folioreader.util.SharedPreferenceUtil
+com/folioreader/model/sqlite/DbAdapter.java
+ com.folioreader.model.sqlite.DbAdapter
+com/folioreader/model/dictionary/Audio.java
+ com.folioreader.model.dictionary.Audio
+com/folioreader/util/FileUtil.java
+ com.folioreader.util.FileUtil
+com/folioreader/ui/activity/ContentHighlightActivity.java
+ com.folioreader.ui.activity.ContentHighlightActivity
+ com.folioreader.ui.activity.ContentHighlightActivity$1
+ com.folioreader.ui.activity.ContentHighlightActivity$2
+ com.folioreader.ui.activity.ContentHighlightActivity$3
+com/folioreader/ui/view/UnderlinedTextView.java
+ com.folioreader.ui.view.UnderlinedTextView
+com/folioreader/model/event/ReloadDataEvent.java
+ com.folioreader.model.event.ReloadDataEvent
+com/folioreader/network/TLSSocketFactory.java
+ com.folioreader.network.TLSSocketFactory
+com/folioreader/model/dictionary/DictionaryResults.java
+ com.folioreader.model.dictionary.DictionaryResults
+com/folioreader/ui/adapter/TOCAdapter.java
+ com.folioreader.ui.adapter.TOCAdapter
+ com.folioreader.ui.adapter.TOCAdapter$TOCCallback
+ com.folioreader.ui.adapter.TOCAdapter$TOCRowViewHolder
+ com.folioreader.ui.adapter.TOCAdapter$TOCRowViewHolder$1
+ com.folioreader.ui.adapter.TOCAdapter$TOCRowViewHolder$2
+com/folioreader/ui/fragment/DictionaryFragment.java
+ com.folioreader.ui.fragment.DictionaryFragment
+ com.folioreader.ui.fragment.DictionaryFragment$1
+ com.folioreader.ui.fragment.DictionaryFragment$2
+ com.folioreader.ui.fragment.DictionaryFragment$3
+ com.folioreader.ui.fragment.DictionaryFragment$4
+com/folioreader/ui/base/DictionaryCallBack.java
+ com.folioreader.ui.base.DictionaryCallBack
+com/folioreader/model/TOCLinkWrapper.java
+ com.folioreader.model.TOCLinkWrapper
+com/folioreader/ui/view/VerticalSeekbar.java
+ com.folioreader.ui.view.VerticalSeekbar
+com/folioreader/ui/base/OnSaveHighlight.java
+ com.folioreader.ui.base.OnSaveHighlight
+com/folioreader/model/dictionary/Senses.java
+ com.folioreader.model.dictionary.Senses
+ com.folioreader.model.dictionary.Senses$DefinitionDeserializer
+com/folioreader/ui/adapter/HighlightAdapter.java
+ com.folioreader.ui.adapter.HighlightAdapter
+ com.folioreader.ui.adapter.HighlightAdapter$1
+ com.folioreader.ui.adapter.HighlightAdapter$1$1
+ com.folioreader.ui.adapter.HighlightAdapter$2
+ com.folioreader.ui.adapter.HighlightAdapter$3
+ com.folioreader.ui.adapter.HighlightAdapter$4
+ com.folioreader.ui.adapter.HighlightAdapter$5
+ com.folioreader.ui.adapter.HighlightAdapter$5$1
+ com.folioreader.ui.adapter.HighlightAdapter$HighLightAdapterCallback
+ com.folioreader.ui.adapter.HighlightAdapter$HighlightHolder
+com/folioreader/ui/view/DirectionalViewpager.java
+ com.folioreader.ui.view.DirectionalViewpager
+ com.folioreader.ui.view.DirectionalViewpager$1
+ com.folioreader.ui.view.DirectionalViewpager$2
+ com.folioreader.ui.view.DirectionalViewpager$3
+ com.folioreader.ui.view.DirectionalViewpager$4
+ com.folioreader.ui.view.DirectionalViewpager$Decor
+ com.folioreader.ui.view.DirectionalViewpager$Direction
+ com.folioreader.ui.view.DirectionalViewpager$ItemInfo
+ com.folioreader.ui.view.DirectionalViewpager$LayoutParams
+ com.folioreader.ui.view.DirectionalViewpager$MyAccessibilityDelegate
+ com.folioreader.ui.view.DirectionalViewpager$OnAdapterChangeListener
+ com.folioreader.ui.view.DirectionalViewpager$OnPageChangeListener
+ com.folioreader.ui.view.DirectionalViewpager$PageTransformer
+ com.folioreader.ui.view.DirectionalViewpager$PagerObserver
+ com.folioreader.ui.view.DirectionalViewpager$SavedState
+ com.folioreader.ui.view.DirectionalViewpager$SavedState$1
+ com.folioreader.ui.view.DirectionalViewpager$SimpleOnPageChangeListener
+ com.folioreader.ui.view.DirectionalViewpager$ViewPositionComparator
+com/folioreader/util/SMILParser.java
+ com.folioreader.util.SMILParser
+com/folioreader/model/HighlightImpl.java
+ com.folioreader.model.HighlightImpl
+ com.folioreader.model.HighlightImpl$1
+ com.folioreader.model.HighlightImpl$2
+ com.folioreader.model.HighlightImpl$HighlightStyle
+com/folioreader/model/sqlite/DictionaryTable.java
+ com.folioreader.model.sqlite.DictionaryTable
+com/folioreader/Constants.java
+ com.folioreader.Constants
+com/folioreader/ui/fragment/HighlightFragment.java
+ com.folioreader.ui.fragment.HighlightFragment
+ com.folioreader.ui.fragment.HighlightFragment$1
+com/folioreader/ui/activity/FolioActivityCallback.java
+ com.folioreader.ui.activity.FolioActivityCallback
+com/folioreader/ui/base/BaseMvpView.java
+ com.folioreader.ui.base.BaseMvpView
+com/folioreader/ui/base/WikipediaCallBack.java
+ com.folioreader.ui.base.WikipediaCallBack
+com/folioreader/util/OnHighlightListener.java
+ com.folioreader.util.OnHighlightListener
+com/folioreader/model/HighLight.java
+ com.folioreader.model.HighLight
+ com.folioreader.model.HighLight$HighLightAction
+com/folioreader/ui/base/DictionaryTask.java
+ com.folioreader.ui.base.DictionaryTask
+com/folioreader/util/ObjectMapperSingleton.java
+ com.folioreader.util.ObjectMapperSingleton
+com/folioreader/ui/base/SaveReceivedHighlightTask.java
+ com.folioreader.ui.base.SaveReceivedHighlightTask
+com/folioreader/ui/base/HtmlUtil.java
+ com.folioreader.ui.base.HtmlUtil
+com/folioreader/model/media_overlay/OverlayItems.java
+ com.folioreader.model.media_overlay.OverlayItems
+ com.folioreader.model.media_overlay.OverlayItems$1
+com/folioreader/model/event/WebViewPosition.java
+ com.folioreader.model.event.WebViewPosition
+com/folioreader/util/MultiLevelExpIndListAdapter.java
+ com.folioreader.util.MultiLevelExpIndListAdapter
+ com.folioreader.util.MultiLevelExpIndListAdapter$ExpIndData
+com/folioreader/ui/adapter/FontAdapter.java
+ com.folioreader.ui.adapter.FontAdapter
+ com.folioreader.ui.adapter.FontAdapter$ViewHolder
+com/folioreader/ui/base/HtmlTaskCallback.java
+ com.folioreader.ui.base.HtmlTaskCallback
+com/folioreader/util/StyleableTextView.java
+ com.folioreader.util.StyleableTextView
+com/folioreader/BuildConfig.java
+ com.folioreader.BuildConfig
+com/folioreader/AppContext.java
+ com.folioreader.AppContext
